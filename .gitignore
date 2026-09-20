@@ -1,0 +1,13 @@
+## Visual Studio / .NET build artifacts
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+## Runtime output produced by the app
+Reports/
+
+## OS files
+.DS_Store
+Thumbs.db
