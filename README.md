@@ -1,7 +1,7 @@
 # AXPERT-Mini — Agriculture Expert System (VB.NET)
 
-A small VB.NET WinForms desktop app that demonstrates the "integrated
-information system to facilitate farmers" workflow: a farmer submits a leaf
+A VB.NET WinForms desktop app that demonstrates the "integrated
+information system to facilitate farmers' workflow: a farmer submits a leaf
 photo, an automated expert system processes and analyzes it, produces a
 report, an agriculture expert verifies it, and the solution is sent back to
 the farmer — replacing the slow, unreliable traditional extension-worker
