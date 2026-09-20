@@ -131,5 +131,5 @@ or simply open `AgriExpertSystem.sln` in Visual Studio and press **F5**.
 
 ## License
 
-MIT — do whatever you like with it, attribution appreciated.
+MIT — you can use this; attribution appreciated.
 "# Crops-Disease-Detection-System-BSCS-" 
